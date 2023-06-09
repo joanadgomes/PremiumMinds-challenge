@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 # Premium Minds Challenge
 ## "Pokemon: apanhá-los todos"
 <br /> 
+=======
+<h2 align="center">
+  Premium Minds Challenge<br/>
+</h2>
+<h3>"Pokemon: apanhá-los todos"</h3>
+>>>>>>> e44d642df0b811eaaf18cf83a7676759a3ade7be
 
 ## Intro (PT)
 
